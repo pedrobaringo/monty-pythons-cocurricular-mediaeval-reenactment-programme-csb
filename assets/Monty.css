@@ -1190,6 +1190,8 @@
 	background:transparent;
 	border: 0px;
 	font-weight:700;
+	white-space: pre-wrap;
+    word-break: normal;
 }
 .accouttable table tr td:first-child a img{
 	display:none;
