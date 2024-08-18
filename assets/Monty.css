@@ -1271,6 +1271,7 @@
 }
 .paneltabs {
 	position:relative;
+	display: flex;
 }
 .panelbigtabs {
 	margin-bottom:10px;
