@@ -1,7 +1,7 @@
 {
   "id": "monty-pythons-cocurricular-mediaeval-reenactment-programme-csb",
   "title": "Monty Python's Cocurricular Mediaeval Reenactment Programme (CSB)",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -79,9 +79,15 @@
       "name": "English",
       "path": "lang/en.json",
       "flags": {}
+    },
+	{
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json",
+      "flags": {}
     }
   ],
   "url": "https://github.com/pedrobaringo/monty-pythons-cocurricular-mediaeval-reenactment-programme-csb",
   "manifest": "https://github.com/pedrobaringo/monty-pythons-cocurricular-mediaeval-reenactment-programme-csb/releases/latest/download/module.json",
-  "download": "https://github.com/pedrobaringo/monty-pythons-cocurricular-mediaeval-reenactment-programme-csb/releases/download/1.0.1/monty-pythons-cocurricular-mediaeval-reenactment-programme-csb.zip"
+  "download": "https://github.com/pedrobaringo/monty-pythons-cocurricular-mediaeval-reenactment-programme-csb/releases/download/1.0.2/monty-pythons-cocurricular-mediaeval-reenactment-programme-csb.zip"
 }
