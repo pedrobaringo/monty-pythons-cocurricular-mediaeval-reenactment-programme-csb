@@ -882,7 +882,7 @@
 }
 .traitname .custom-system-label-label{
 	font-family:"StamPete";
-	font-size:25px;
+	font-size:24px;
 	width:200px;
 	margin:auto;
 	text-align:center;
@@ -1624,7 +1624,7 @@ div.custom-system-sheet-actions:first-of-type {
 	grid-template-columns: auto auto;
     margin: 0px;
     gap: 0px;
-	right:20%;
+	right:18%;
 }
 .indiferenttext select{
 	text-align: center;
