@@ -161,48 +161,23 @@
 			"use-merits" : "How many Merits do you spend to get extra dice?",
 			"add-dice" : "How many extra dice will you roll?"
 		},
-		"BACKSTORY" : {
-			"general" : "General",
-			"placeorigin" : "Place of origin",
-			"age" : "Age",
-			"personalmark" : "Personal Mark",
-			"occupations" : "Occupations in Magoria",
-			"pastpresent" : "Past or present",
-			"offstage" : "Offstage",
-			"affinity" : "Affinity to faction or zone",
-			"illusionism" : "Of Illusionism",
-			"note-occupation" : "Note: At least three of the Specialties must be related to an Occupation. The Occupation related to illusionism (company of magicians) is mandatory.",
-			"equipment" : "Equipment and Resources",
-			"backstory-history" : "History",
-			"background" : "Background",
-			"event-magician" : "Event that made you become a magician",
-			"motivation" : "Motivation",
-			"desire" : "Desire",
-			"relationships" : "Relationships",
-			"rumors" : "Rumors",
-      "short-desc" : "Short Description"
-		},
-		"INITIATIVE" : {
-			"engaged" : "Are you Attacking or Engaged?",
-			"weapon" : "What weapon are you using?",
-			"action" : "What combat maneuver will you do?",
-			"firearm" : "Firearm",
-			"normweapon" : "Combat weapon",
-			"improvisedweapon" : "Unarmed or a makeshift weapon",
-			"damage" : "Damage",
-			"advantage" : "Gain Advantage",
-			"defend" : "Defend"
+		"HOLE" : {
+			"beshrewment-tigger" : "Beshrewment Trigger",
+			"complaint-letters" : "Complaint Letters",
+			"goes-in" : "Goes In For",
+			"frowns-upon" : "Frowns Upon",
+			"beshrewment-table" : "Beshrewment Table"
 		},
 		"SETTINGS" : {
 			"name" : "Force Welcome message",
 			"hint" : "If you check this box, the welcome message will appear in the chat the next time you enter.",
-			"welcome1" : "Welcome to the Trickerion Module",
+			"welcome1" : "Welcome to the Monty Python's Cocurricular Mediaeval Reenactment Programme Module",
 			"welcome2" : "Import the Compendiums to start using the module",
 			"welcome3" : "The module has been updated since you last used it. Import the compendiums to have the latest version of the actor and object Templates.",
-			"welcome4" : "Remember: You can add bonus dice, or substract penalty dice, by pressing the shift key and clicking on the Ability.",
+			"welcome4" : "Remember: You can add Pluses or Minuses and get extra dice by pressing the shift key and clicking on the Trait.",
 			"importbutton" : "Import the compendiums",
 			"tutorialbutton" : "Go to the Tutorial",
-			"dahlgaard" : "Dahlgaard the Magnificent"
+			"god" : "GOD"
 		}
 	}
 }

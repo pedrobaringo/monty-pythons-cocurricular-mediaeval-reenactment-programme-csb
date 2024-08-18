@@ -54,6 +54,14 @@
     font-family: "HelveticaBoldItaCond";
     src: url("../assets/fonts/Helvetica Condensed Bold Italic.ttf");
 }
+@font-face {
+    font-family: "CalibriBold";
+    src: url("../assets/fonts/Calibri Bold.TTF");
+}
+@font-face {
+    font-family: "Veneer";
+    src: url("../assets/fonts/Veneer-Three.woff2");
+}
 	
 .window-app .window-content {
     background: url(../assets/Background1.webp);
@@ -2784,4 +2792,139 @@ div.custom-system-sheet-actions:first-of-type {
 .d30dice a{
 	height:60px;
 	width:60px;
+}
+.beshcomplab {
+	font-family: "Calibri";
+	text-transform: uppercase;
+	font-size:15px;
+	align-items: flex-end;
+}
+.beshcompnum{
+	font-family: "CalibriBold";
+	font-size:15px;
+	font-weight:bold;
+}
+.beshcompnum input[type="text"] {
+	text-align:center;
+	background:transparent;
+	border-width: 0px 0px 1px 0px;
+	border-color:black;
+	border-radius:0px;
+}
+.paneltophole {
+	display:grid;
+	grid-template-columns: auto 10% auto auto 20%;
+	gap:0px;
+}
+.titlegoesfrowns {
+	font-family: "Veneer";
+	font-size:30px;
+	border-width: 0px 0px 2px 0px;
+	border-color: black;
+	border-radius:0px;
+	border-style: solid;
+}
+.descpanelhole {
+	border-width: 3px 0px 3px 0px;
+	border-color: black;
+	border-radius:0px;
+	border-style: solid;
+}
+.titlegoesfrowns div{
+	display:flex;
+	justify-content:flex-end;
+}
+.merdem {
+	font-size:20px;
+	margin-bottom:4px;
+}
+.beshrewmenttable table{
+}
+.beshrewmenttable table tr:first-child{
+	display:none;
+}
+.beshrewmenttable table tr{
+	display:grid;
+	grid-template-columns: 5% 1% 5% 85% 4%;
+	margin:0px;
+	padding:0px;
+}
+.beshrewmenttable table tr td:nth-child(1){
+	grid-column: 1 / span 1;
+	order:1;
+	font-family: "HelveticaBoldItaCond";
+	font-size:15px;
+}
+.beshrewmenttable table tr td:nth-child(1) div{
+	margin:0px;
+}
+.beshrewmenttable table tr td:nth-child(1) input[type="text"]{
+	text-align:center;
+	background:transparent;
+	border-width: 0px 0px 1.5px 0px;
+	border-radius:0px;
+	border-color:black;
+}
+.beshrewmenttable table tr td:nth-child(2){
+	grid-column: 2 / span 1;
+	order:2;
+	font-family: "HelveticaBoldItaCond";
+	font-size:17px;
+}
+.beshrewmenttable table tr td:nth-child(2) div{
+	margin:0px;
+}
+.beshrewmenttable table tr td:nth-child(3){
+	grid-column: 3 / span 1;
+	order:3;
+	font-family: "HelveticaBoldItaCond";
+	font-size:17px;
+}
+.beshrewmenttable table tr td:nth-child(3) div{
+	margin:0px;
+}
+.beshrewmenttable table tr td:nth-child(3) input[type="text"]{
+	text-align:center;
+	background:transparent;
+	border-width: 0px 0px 1.5px 0px;
+	border-radius:0px;
+	border-color:black;
+}
+.beshrewmenttable table tr td:nth-child(4){
+	grid-column: 4 / span 1;
+	order:4;
+	font-family: "HelveticaBoldItaCond";
+	font-size:17px;
+}
+.beshrewmenttable table tr td:nth-child(4) div{
+	margin:0px 0px 0px 5px;
+}
+.beshrewmenttable table tr td:nth-child(4) input[type="text"]{
+	background:transparent;
+	border-width: 0px 0px 1.5px 0px;
+	border-radius:0px;
+	border-color:black;
+}
+.beshrewmenttable table tr td:nth-child(6){
+	grid-column: 5 / span 1;
+	order:5;
+}
+.beshrewmenttable table tr td:nth-child(5){
+	grid-column: 1 / span 5;
+	order:6;
+	font-family: "Calibri";
+	font-size:15px;
+}
+.beshrewmenttable table tr td:nth-child(5) p{
+	margin:0px;
+}
+.beshrewmenttable table tr:last-child td:first-child{
+	display:none;
+}
+.beshrewmenttable table tr:last-child td:nth-child(2){
+	background:transparent;
+}
+.beshrewmenttabletitle {
+	font-family: "Veneer";
+	font-size:30px;
 }
