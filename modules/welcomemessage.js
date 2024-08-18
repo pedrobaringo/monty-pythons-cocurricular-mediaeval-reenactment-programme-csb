@@ -48,7 +48,7 @@ Hooks.once("ready", function() {
 				const button2 = document.getElementById(buttonId2);
 				if (button2) {
 					button2.addEventListener("click",function () {
-						let collection = game.packs.get("monty-pythons-cocurricular-mediaeval-reenactment-programme-csb.templates-objetos");
+						let collection = game.packs.get("monty-pythons-cocurricular-mediaeval-reenactment-programme-csb.itemtemplates");
 						console.log(collection);
 						console.log(button2);
 						let folderident=''
@@ -57,7 +57,7 @@ Hooks.once("ready", function() {
 						}
 						let docs = collection.importAll({folderId: folderident, folderName: "Obj_Templates", keepId: true});
 						setTimeout(() => {
-							let collection2 = game.packs.get("monty-pythons-cocurricular-mediaeval-reenactment-programme-csb.templates-actores");
+							let collection2 = game.packs.get("monty-pythons-cocurricular-mediaeval-reenactment-programme-csb.actortemplates");
 							let folderident2=''
 							if (game.folders.getName("Actor_Templates")) {
 								folderident2=game.folders.getName("Actor_Templates").id;
