@@ -117,6 +117,7 @@
 .currencylabels {
 	margin:0px;
 	font-family:"HamletOrNot";
+	line-height: 100%;
 }
 .currencynum {
 	font-family:"RegulaOldFace";
