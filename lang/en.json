@@ -79,6 +79,7 @@
 		"enemies" : "Enemies",
 		"specialattacks" : "Special Attacks",
 		"standardattack" : "Standard Attack",
+		"normaldefence" : "Defence",
 		"specialdefence" : "Special Defence",
 		"seriousdefence" : "Serious Defence",
 		"sillydefence" : "Silly Defence",

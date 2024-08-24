@@ -2932,3 +2932,22 @@ div.custom-system-sheet-actions:first-of-type {
 	font-family: "Veneer";
 	font-size:30px;
 }
+.chat-message .table-draw .table-results .table-result a {
+	white-space: pre-wrap;
+    word-break: normal;
+	text-align: center;
+	line-height:150%;
+}
+.chat-message .table-draw .table-results .table-result img.result-image {
+	width:80px;
+	height:80px;
+}
+.chat-message .table-draw .table-results .table-result {
+	flex-direction:column;
+}
+.chat-message .table-draw .table-results .table-result div{
+	text-align:center;
+}
+.attackdefenselabel .custom-system-rollable {
+	color:#ece7d2;
+}
