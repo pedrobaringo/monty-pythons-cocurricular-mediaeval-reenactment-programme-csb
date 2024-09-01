@@ -70,11 +70,6 @@
 .margin_zero {
 	margin:0px;
 }
-.panelheader1 {
-	grid-template-columns: 30% 70%;
-	gap:10px;
-	font-family:"HamletOrNot";
-}
 .situationpanel {
 	grid-template-columns: auto auto;
 	margin:0px;
@@ -2950,4 +2945,51 @@ div.custom-system-sheet-actions:first-of-type {
 }
 .attackdefenselabel .custom-system-rollable {
 	color:#ece7d2;
+}
+.panel4cleartop {
+	height: 95%;
+}
+.panel6cleartop {
+	height: 95%;
+}
+.panel8cleartop {
+	height: 95%;
+}
+.panel10cleartop {
+	height: 95%;
+}
+.panel12cleartop {
+	height: 95%;
+}
+.panel14cleartop {
+	height: 95%;
+}
+.panel16cleartop {
+	height: 95%;
+}
+.panel18cleartop {
+	height: 95%;
+}
+.panel20cleartop {
+	height: 95%;
+}
+
+.situation select{
+	text-align: left;
+    background: transparent;
+    border-width: 0px 0px 1px 0px;
+    border-color: black;
+    border-radius: 0px;
+	font-family:"StamPete";
+	font-size:20px;
+	color: #ee1c25;
+}
+.panelheader1 {
+    grid-template-columns: 32% 68%;
+    gap: 10px;
+    font-family: "HamletOrNot";
+}
+.panelheight40 {
+	height:30px;
+	width:100%;
 }
