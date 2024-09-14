@@ -2993,3 +2993,11 @@ div.custom-system-sheet-actions:first-of-type {
 	height:30px;
 	width:100%;
 }
+.dicenpcd30 {
+    background-image: url(../assets/d30.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 50px;
+    background-position: center;
+    margin: 5px 0px 0px 0px;
+}
