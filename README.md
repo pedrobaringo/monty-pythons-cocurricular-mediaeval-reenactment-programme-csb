@@ -1,7 +1,9 @@
 ![Foundry Tutorial](https://github.com/user-attachments/assets/1d8ca01f-71b4-4a98-8f30-81c30d60cca9)
 
-# Monty Python's Cocurricular Mediaeval Reenactment Programme (CSB)
+# Monty Python's Cocurricular Mediaeval Reenactment Programme (CSB) (Unofficial)
  
+This is an Unofficial module to have character sheets por Foundry to play using the Custom System Builder. 
+
 To Install this module you need to have installed the Custom System Builder. In the modules section of your Foundry landing page you have to click on Install module and paste the following manifest:
 
 https://github.com/pedrobaringo/monty-pythons-cocurricular-mediaeval-reenactment-programme-csb/releases/latest/download/module.json
